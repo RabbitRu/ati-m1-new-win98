@@ -1,0 +1,9 @@
+[submodule "reference/mach64-drm"]
+	path = reference/mach64-drm
+	url = https://github.com/trya/mach64-drm
+[submodule "reference/vmdisp9x"]
+	path = reference/vmdisp9x
+	url = https://github.com/JHRobotics/vmdisp9x
+[submodule "reference/vmhal9x"]
+	path = reference/vmhal9x
+	url = https://github.com/JHRobotics/vmhal9x
